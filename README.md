@@ -26,6 +26,6 @@ and normal leaf
 
 
 # Contributors
-<img src="https://avatars.githubusercontent.com/u/98966847?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/97548404?v=4" width="100" height="100">| <img src="https://avatars.githubusercontent.com/u/98966983?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/99017712?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/98966847?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/97548404?v=4" width="100" height="100">| <img src="https://avatars.githubusercontent.com/u/98966983?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/77112906?v=4" width="100" height="100">
 ------|-----|------|------
 [Fenosoa Randrianjatovo](https://github.com/FenosoaRandrianjatovo) | [Annine Duclaire Kenne](https://github.com/annine1)| [Elysee Manimpire Gasana](https://github.com/GasanaElysee12) | [Abiodun Saheed Ademola](https://github.com/Eminent01)
