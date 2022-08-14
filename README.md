@@ -3,15 +3,15 @@
 ---
 
 ## Introduction 
-The agriculture is the most important way to feed the population around the world by farming crops such as Rice
+Agriculture is the most important way to feed the population around the world by farming crops such as Rice
 which is one of the staple foods worldwide and the most consumed. The plantations such as rice, cassava, etc.
-have often affected by certain diseases. However, these problems have attracted most of the experts in machine
-learning filed. Thus, the main goal of this kaggle project is to develop a machine or deep learning-based model to
-classify the given paddy leaf images accurately. In this project, we have focused specifically on rice plant (Oryza
-sativa) disease. The images of the diseased symptoms in leaves and stems have been captured from the rice field.
-The different methods used, our experiments and the results obtained are presented. The best score was obtained
-using Resnet34 with 100 epochs accompanied with some deep layers. In the following sections, we provided
-additional details about our experiment
+have often been affected by certain diseases. However, these problems have attracted most of the experts in the
+machine learning field. Thus, the main goal of this kaggle project is to develop a machine or deep learning-based
+model to classify the given paddy leaf images accurately. In this project, we have focused specifically on rice plant
+(Oryza sativa) disease. The images of the diseased symptoms in leaves and stems have been captured from the
+rice field. The different methods used, our experiments, and the results obtained are presented. The best score
+was obtained using Resnet34 with 100 epochs accompanied by some deep layers. In the following sections, we
+provided additional details about our experiments.
 
 ## Data description
 
